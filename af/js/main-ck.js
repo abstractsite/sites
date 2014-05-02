@@ -1,0 +1,1 @@
+$("#yourElement").addClass("animated bounceOutLeft");$(".logo").fadeIn("400",function(){$(".section").delay(800).each(function(e){$(this).delay(400*e).animate({opacity:1})})});
